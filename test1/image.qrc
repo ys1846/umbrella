@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/3.png</file>
+        <file>image/942.gif</file>
+        <file>image/apple1.png</file>
+        <file>image/apple2.png</file>
+        <file>image/apple3.png</file>
+        <file>image/icon.ico</file>
+        <file>image/login.png</file>
+        <file>image/login2.png</file>
+        <file>image/login3.png</file>
+        <file>image/密码.png</file>
+        <file>image/账号.png</file>
+    </qresource>
+</RCC>
